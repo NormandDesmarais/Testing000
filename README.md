@@ -1,7 +1,7 @@
 # Testing000
 Just a test repository
 
-I am nobody and as a nobody I can
+I am no body and as a no body I can
 - swim
 - sing
 - sweat
